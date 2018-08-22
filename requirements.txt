@@ -1,0 +1,8 @@
+appdirs==1.4.0
+Django==1.11
+django-mfa==1.0
+packaging==16.8
+pyparsing==2.1.10
+python-decouple==3.1
+pytz==2018.5
+six==1.10.0
