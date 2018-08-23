@@ -1,5 +1,5 @@
 ### Google Two Factor Authentication Django Login
-Live link=> [Two Factor Authentication](http://djauthenticator.pythonanywhere.com/)<=
+Live link=> [Two Factor Authentication](http://shemtwofactor.herokuapp.com/)<=
 
 ## Usage
 
